@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 - 🔥 Hardcore dev passionate about full-stack wizardry
-- ⚙️ Currently building **Phantom Corp**, **PhantomHQ**, and **Naturebound Realms**
+- ⚙️ Currently building **Phantom Labs**
 - 🌱 Learning: Privacy-first development, Linux (Arch btw), and browser engineering
 - 💡 Trying to make the most aesthetic portfolio to ever hit [Awwwards](https://www.awwwards.com/)
 - 🧘 Zen mode: Code, Music, Midnight Coffee ☕ + Terminal Vibes
