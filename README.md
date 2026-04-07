@@ -1,49 +1,13 @@
-<h1 align="center">Hey, I'm Swapnonil 👋</h1>
+<h1 align="left">Hey, I'm Swapnonil 👋</h1>
 
-<p align="center">
-  💻 Developer | ⚡ Hacker | 🧠 Maker | 🌍 Dreaming in Code
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=440&lines=I+build+real-world+apps+%F0%9F%9A%80;Privacy+first.+Design+obsessed.;Code+driven.+Always+shipping+%F0%9F%9A%80&repeat=true&duration=4000" alt="Typing SVG with cursor" />
-</p>
+# 💫 About Me:
+Currently building Phantom Corp.<br>Learning Python.<br>
 
 
-## 🧠 About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnon11) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dream1n4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/swapn_n11) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/swapn0n11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lightforce1207@gmail.com) 
 
-- 🔥 Hardcore dev passionate about full-stack wizardry
-- ⚙️ Currently building **Phantom Labs**
-- 🌱 Learning: Privacy-first development, Linux (Arch btw), and browser engineering
-- 💡 Trying to make the most aesthetic portfolio to ever hit [Awwwards](https://www.awwwards.com/)
-- 🧘 Zen mode: Code, Music, Midnight Coffee ☕ + Terminal Vibes
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
 
- ### 🧬 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,figma,linux" />
-</div>
-
-<br>
-
-- 💙 **TypeScript** — Strict-typed JS for rock-solid code  
-- ⚛️ **React** — Component-driven UI with hooks & vibes  
-- 🎨 **TailwindCSS** — Utility-first styling, fast & aesthetic  
-- ⚙️ **Node.js** — Backend beast for API sorcery  
-- ✨ **Figma** — Design-to-code flow with perfect pixels  
-- 🐧 **Linux** — Terminal-native builds, Arch btw
-
-<a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0009-0002-6426-4411"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0009-0002-6426-4411
-    </a>
