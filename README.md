@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Swapnonil 👋</h1>
 
 # 💫 About Me:
-Currently building Phantom Corp.<br>Learning Python.<br>
+Currently building Phantom Labs.<br>Learning Python.<br>
 
 
 ## 🌐 Socials:
